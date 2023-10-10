@@ -6,12 +6,13 @@
         "template--15200977879155__hero-slideshow-slide-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/hero0.jpg",
             "heading": "",
             "heading_size": "",
             "subheading": "",
             "button_label": "Explore",
-            "link": "",
-            "button_style_secondary": true,
+            "link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": false,
             "text_alignment": "left",
@@ -23,12 +24,13 @@
         "template--15200977879155__hero-slideshow-slide-2": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/hero1.jpg",
             "heading": "Why should you choose a Sloanebuilt trailer to get behind your business?",
             "heading_size": "h2",
             "subheading": "Tell your brand's story through images",
             "button_label": "Explore",
-            "link": "",
-            "button_style_secondary": true,
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": false,
             "text_alignment": "left",
@@ -40,17 +42,18 @@
         "template--15200977879155__hero-slideshow-slide-3": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/hero2.jpg",
             "heading": "Sloanebuilt have built a strong reputation nationally for reliable high quality trailers",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "",
             "button_label": "Explore",
-            "link": "",
-            "button_style_secondary": true,
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         }
