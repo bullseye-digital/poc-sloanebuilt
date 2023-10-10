@@ -101,10 +101,10 @@
     "brand_headline": "",
     "brand_description": "<p><\/p>",
     "brand_image_width": 100,
-    "social_facebook_link": "",
-    "social_instagram_link": "",
-    "social_youtube_link": "",
-    "social_tiktok_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/sloanebuilt",
+    "social_instagram_link": "https:\/\/www.instagram.com\/sloanebuilt\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCOxhcC1hkIZBANjDv2mZ81Q",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@sloanebuilt",
     "social_twitter_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
@@ -184,9 +184,9 @@
         "settings": {
           "background": "#0082bb",
           "background_gradient": "",
-          "text": "#fff",
+          "text": "#ffffff",
           "button": "#0082bb",
-          "button_label": "#fff",
+          "button_label": "#ffffff",
           "secondary_button_label": "#1f1f21",
           "shadow": "#ffffff"
         }
