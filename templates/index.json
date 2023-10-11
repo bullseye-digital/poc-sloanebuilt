@@ -251,6 +251,9 @@
     },
     "instagrid-1696990813": {
       "type": "instagrid",
+      "custom_css": [
+        "#igr-powered-by {display: none;}"
+      ],
       "settings": {
       }
     }
