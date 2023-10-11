@@ -1,5 +1,9 @@
 {{ 'section-multicolumn.css' | asset_url | stylesheet_tag }}
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
+{% if section.settings.swipe_on_mobile %}
+  {{ 'slick.css' | asset_url | stylesheet_tag }}
+  <script src="{{ 'slick.min.js' | asset_url }}" defer="defer"></script>
+{% endif %}
 
 {%- style -%}
   .section-{{ section.id }}-padding {
