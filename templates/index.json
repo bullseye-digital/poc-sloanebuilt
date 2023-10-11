@@ -178,7 +178,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -187,8 +187,61 @@
         "enable_quick_add": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 40
+      }
+    },
+    "818d6834-604a-4f06-9d54-ae8591a07bb6": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16219923873978__818d6834-604a-4f06-9d54-ae8591a07bb6-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16219923873978__818d6834-604a-4f06-9d54-ae8591a07bb6-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16219923873978__818d6834-604a-4f06-9d54-ae8591a07bb6-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16219923873978__818d6834-604a-4f06-9d54-ae8591a07bb6-column-1",
+        "template--16219923873978__818d6834-604a-4f06-9d54-ae8591a07bb6-column-2",
+        "template--16219923873978__818d6834-604a-4f06-9d54-ae8591a07bb6-column-3"
+      ],
+      "settings": {
+        "title": "Discover Sloanebuilt",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -196,6 +249,7 @@
     "hero-slideshow",
     "282ba9fa-2da4-449b-81c6-e62d4ad11f7a",
     "3ed5d434-e781-418f-bd7f-adbcdf687bb5",
-    "featured_collection"
+    "featured_collection",
+    "818d6834-604a-4f06-9d54-ae8591a07bb6"
   ]
 }
