@@ -74,6 +74,92 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "282ba9fa-2da4-449b-81c6-e62d4ad11f7a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16219923873978__282ba9fa-2da4-449b-81c6-e62d4ad11f7a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sloanebuilt Custom Trailers to Suit Australian Conditions",
+            "heading_size": "h2"
+          }
+        },
+        "template--16219923873978__282ba9fa-2da4-449b-81c6-e62d4ad11f7a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For over 35 years Sloanebuilt have been the preferred choice in custom rigid bodies and truck trailers.<br\/>Sloanebuilt design and manufacturer quality heavy vehicle trailers that are nationally renowned for their strength, durability, and reliability.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16219923873978__282ba9fa-2da4-449b-81c6-e62d4ad11f7a-heading-1",
+        "template--16219923873978__282ba9fa-2da4-449b-81c6-e62d4ad11f7a-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "3ed5d434-e781-418f-bd7f-adbcdf687bb5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16219923873978__3ed5d434-e781-418f-bd7f-adbcdf687bb5-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/card1.jpg",
+            "title": "Custom Trailers and Products",
+            "text": "<p>Are you after a rigid tipper, dog trailer, semi, B double or flat top? Our team can help you maximise your payload and productivity.<\/p>",
+            "link_label": "Explore",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "template--16219923873978__3ed5d434-e781-418f-bd7f-adbcdf687bb5-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/card2.jpg",
+            "title": "SBT SpareParts Store",
+            "text": "<p>Our online parts shop makes it easier than ever for you to access parts for your trailer, and the flexibility to deliver nationally.<\/p>",
+            "link_label": "Order",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "template--16219923873978__3ed5d434-e781-418f-bd7f-adbcdf687bb5-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/card3.jpg",
+            "title": "Serviceand Repair",
+            "text": "<p>Our service team are experts in ensuring your truck and trailer are performing at their best with service and repairs available from Smeaton Grange.<\/p>",
+            "link_label": "Learn more",
+            "link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--16219923873978__3ed5d434-e781-418f-bd7f-adbcdf687bb5-column-1",
+        "template--16219923873978__3ed5d434-e781-418f-bd7f-adbcdf687bb5-column-2",
+        "template--16219923873978__3ed5d434-e781-418f-bd7f-adbcdf687bb5-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -142,6 +228,8 @@
   },
   "order": [
     "hero-slideshow",
+    "282ba9fa-2da4-449b-81c6-e62d4ad11f7a",
+    "3ed5d434-e781-418f-bd7f-adbcdf687bb5",
     "image-with-text",
     "featured_collection"
   ]
