@@ -270,6 +270,61 @@
       ],
       "settings": {
       }
+    },
+    "75de8d45-0588-4ad3-9cb3-eb74f9b70151": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16219923873978__75de8d45-0588-4ad3-9cb3-eb74f9b70151-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero1.jpg",
+            "heading": "Mark Allen, Select Quarry Materials",
+            "heading_size": "h2",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "More",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16219923873978__75de8d45-0588-4ad3-9cb3-eb74f9b70151-slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero2.jpg",
+            "heading": "Danny Joseph, Loadranger",
+            "heading_size": "h2",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "More",
+            "link": "shopify:\/\/products\/sloanebuilt-vintage-logo-stone-wash-printed-singlet",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16219923873978__75de8d45-0588-4ad3-9cb3-eb74f9b70151-slide-1",
+        "template--16219923873978__75de8d45-0588-4ad3-9cb3-eb74f9b70151-slide-2"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -278,6 +333,7 @@
     "3ed5d434-e781-418f-bd7f-adbcdf687bb5",
     "featured_collection",
     "818d6834-604a-4f06-9d54-ae8591a07bb6",
-    "instagrid-1696990813"
+    "instagrid-1696990813",
+    "75de8d45-0588-4ad3-9cb3-eb74f9b70151"
   ]
 }
