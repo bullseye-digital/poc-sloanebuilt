@@ -268,7 +268,7 @@
       "type": "instagrid",
       "custom_css": [
         "#igr-powered-by {display: none;}",
-        ".button {margin-top: 3rem;}"
+        ".button {margin-top: 2rem;}"
       ],
       "settings": {
       }
