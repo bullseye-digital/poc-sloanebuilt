@@ -64,7 +64,7 @@
         "template--15200977879155__hero-slideshow-slide-3"
       ],
       "settings": {
-        "slideshow_title": "Your Title",
+        "slideshow_title": "",
         "layout": "full_bleed",
         "slide_height": "small",
         "slider_visual": "dots",
