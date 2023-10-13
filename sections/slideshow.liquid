@@ -24,7 +24,7 @@
     }
   {%- endstyle -%}
 {%- endif -%}
-
+<h2>{{ section.settings.slideshow_title | escape }}</h2>
 <slideshow-component
   class="slider-mobile-gutter{% if section.settings.layout == 'grid' %} page-width{% endif %}{% if section.settings.show_text_below %} mobile-text-below{% endif %}"
   role="region"
@@ -274,8 +274,8 @@
   "settings": [
     {
       "type": "inline_richtext",
-      "id": "Title",
-      "default": "Tell your title",
+      "id": "slideshow_title",
+      "default": "Your Title",
       "label": "Slideshow title"
     },
     {
