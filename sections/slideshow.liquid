@@ -25,7 +25,7 @@
   {%- endstyle -%}
 {%- endif -%}
 {%- if section.settings.slideshow_title != blank -%}
-<h2 class="title inline-richtext h2">{{ section.settings.slideshow_title | escape }}</h2>
+<h2 class="title inline-richtext h2 center">{{ section.settings.slideshow_title | escape }}</h2>
 {%- endif -%}
 <slideshow-component
   class="slider-mobile-gutter{% if section.settings.layout == 'grid' %} page-width{% endif %}{% if section.settings.show_text_below %} mobile-text-below{% endif %}"
