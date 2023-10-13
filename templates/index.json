@@ -64,6 +64,7 @@
         "template--15200977879155__hero-slideshow-slide-3"
       ],
       "settings": {
+        "slideshow_title": "Your Title",
         "layout": "full_bleed",
         "slide_height": "small",
         "slider_visual": "dots",
@@ -316,6 +317,7 @@
         "template--16219923873978__75de8d45-0588-4ad3-9cb3-eb74f9b70151-slide-2"
       ],
       "settings": {
+        "slideshow_title": "Testimonials",
         "layout": "full_bleed",
         "slide_height": "small",
         "slider_visual": "dots",
